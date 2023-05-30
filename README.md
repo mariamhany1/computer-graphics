@@ -1,5 +1,5 @@
 # computer-graphics
-Implemented a computer graphics project which describes the implementation of:
+Implemented a computer graphics project in C++ which describes the implementation of:
  -Line algorthims(DDA, Midpoint, Parametric)
  -Circle algortihms(Direct, Polar, Iterative polar, midpoint, Modified midpoint)
  -Filling Circle with lines
